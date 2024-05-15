@@ -1,43 +1,43 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/agis-docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/agis-docs/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/agis-docs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sobre-o-agis/equipe",
-              "path": "/docs/sobre-o-agis/equipe",
+              "path": "/agis-docs/docs/sobre-o-agis/equipe",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sobre-o-agis/o-agis",
-              "path": "/docs/sobre-o-agis/o-agis",
+              "path": "/agis-docs/docs/sobre-o-agis/o-agis",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sobre-o-projeto/ciclo-de-vida",
-              "path": "/docs/sobre-o-projeto/ciclo-de-vida",
+              "path": "/agis-docs/docs/sobre-o-projeto/ciclo-de-vida",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/sobre-o-agis",
-              "path": "/docs/category/sobre-o-agis",
+              "path": "/agis-docs/docs/category/sobre-o-agis",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/sobre-o-projeto",
-              "path": "/docs/category/sobre-o-projeto",
+              "path": "/agis-docs/docs/category/sobre-o-projeto",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -45,7 +45,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/agis-docs/docs/intro",
                 "label": "intro"
               }
             }

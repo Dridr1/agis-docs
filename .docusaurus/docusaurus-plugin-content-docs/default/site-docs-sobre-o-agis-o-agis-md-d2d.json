@@ -5,7 +5,7 @@
   "source": "@site/docs/sobre-o-agis/o-agis.md",
   "sourceDirName": "sobre-o-agis",
   "slug": "/sobre-o-agis/o-agis",
-  "permalink": "/docs/sobre-o-agis/o-agis",
+  "permalink": "/agis-docs/docs/sobre-o-agis/o-agis",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sobre-o-agis/o-agis.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Sobre o Agis",
-    "permalink": "/docs/category/sobre-o-agis"
+    "permalink": "/agis-docs/docs/category/sobre-o-agis"
   },
   "next": {
     "title": "A equipe AGIS",
-    "permalink": "/docs/sobre-o-agis/equipe"
+    "permalink": "/agis-docs/docs/sobre-o-agis/equipe"
   }
 }

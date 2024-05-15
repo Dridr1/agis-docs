@@ -1,5 +1,5 @@
 {
-  "/blog-e21": {
+  "/agis-docs/blog-4ea": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "53a3e6dc"
+    "__props": "b6c6461f"
   },
-  "/blog/archive-245": {
+  "/agis-docs/blog/archive-2ec": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "25003e4f"
+    "__props": "f1efd1a3"
   },
-  "/blog/first-blog-post-89a": {
+  "/agis-docs/blog/first-blog-post-bd8": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -39,7 +39,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/blog/long-blog-post-9ad": {
+  "/agis-docs/blog/long-blog-post-ab7": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -50,7 +50,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/blog/mdx-blog-post-e9f": {
+  "/agis-docs/blog/mdx-blog-post-12d": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -61,15 +61,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/blog/tags-4c4": {
+  "/agis-docs/blog/tags-3e0": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "41756ce8"
+    "__props": "b71a0932"
   },
-  "/blog/tags/docusaurus-fb9": {
+  "/agis-docs/blog/tags/docusaurus-33a": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -89,9 +89,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "f752113f"
+    "__props": "c46da10c"
   },
-  "/blog/tags/facebook-aba": {
+  "/agis-docs/blog/tags/facebook-74d": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -102,9 +102,9 @@
         "content": "7661071f"
       }
     ],
-    "__props": "a3226c22"
+    "__props": "2b265275"
   },
-  "/blog/tags/hello-41a": {
+  "/agis-docs/blog/tags/hello-e28": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -118,9 +118,9 @@
         "content": "8717b14a"
       }
     ],
-    "__props": "9d2a5b67"
+    "__props": "66671eb7"
   },
-  "/blog/tags/hola-8e5": {
+  "/agis-docs/blog/tags/hola-c65": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -131,9 +131,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "fbc76f6c"
+    "__props": "65b7ae9e"
   },
-  "/blog/welcome-d2b": {
+  "/agis-docs/blog/welcome-4f2": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -144,51 +144,51 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/markdown-page-3d7": {
+  "/agis-docs/markdown-page-e12": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/docs-250": {
+  "/agis-docs/docs-3a7": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-c27": {
+  "/agis-docs/docs-3c7": {
     "__comp": "a7bd4aaa",
-    "__props": "7c110bd0"
+    "__props": "ef10ea3d"
   },
-  "/docs-c36": {
+  "/agis-docs/docs-f73": {
     "__comp": "a94703ab"
   },
-  "/docs/category/sobre-o-agis-92f": {
+  "/agis-docs/docs/category/sobre-o-agis-ae5": {
     "__comp": "14eb3368",
-    "__props": "0c8f87a4"
+    "__props": "745710a4"
   },
-  "/docs/category/sobre-o-projeto-76e": {
+  "/agis-docs/docs/category/sobre-o-projeto-af7": {
     "__comp": "14eb3368",
-    "__props": "ad2825cf"
+    "__props": "b8cf345d"
   },
-  "/docs/intro-61d": {
+  "/agis-docs/docs/intro-e80": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/sobre-o-agis/equipe-30b": {
+  "/agis-docs/docs/sobre-o-agis/equipe-46b": {
     "__comp": "17896441",
     "content": "b648bcad"
   },
-  "/docs/sobre-o-agis/o-agis-df9": {
+  "/agis-docs/docs/sobre-o-agis/o-agis-ea7": {
     "__comp": "17896441",
     "content": "d2d6bc1a"
   },
-  "/docs/sobre-o-projeto/ciclo-de-vida-1e7": {
+  "/agis-docs/docs/sobre-o-projeto/ciclo-de-vida-f79": {
     "__comp": "17896441",
     "content": "27e70722"
   },
-  "/-2e1": {
+  "/agis-docs/-278": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

@@ -8,7 +8,7 @@ export default {
   "tagline": "Soluções para G&G",
   "favicon": "img/logo.svg",
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
+  "baseUrl": "/agis-docs/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",

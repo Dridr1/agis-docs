@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagis=self.webpackChunkagis||[]).push([[675],{1256:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/agis-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

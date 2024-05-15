@@ -3,110 +3,110 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'e21'),
+    path: '/agis-docs/blog',
+    component: ComponentCreator('/agis-docs/blog', '4ea'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '245'),
+    path: '/agis-docs/blog/archive',
+    component: ComponentCreator('/agis-docs/blog/archive', '2ec'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/agis-docs/blog/first-blog-post',
+    component: ComponentCreator('/agis-docs/blog/first-blog-post', 'bd8'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/agis-docs/blog/long-blog-post',
+    component: ComponentCreator('/agis-docs/blog/long-blog-post', 'ab7'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/agis-docs/blog/mdx-blog-post',
+    component: ComponentCreator('/agis-docs/blog/mdx-blog-post', '12d'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '4c4'),
+    path: '/agis-docs/blog/tags',
+    component: ComponentCreator('/agis-docs/blog/tags', '3e0'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'fb9'),
+    path: '/agis-docs/blog/tags/docusaurus',
+    component: ComponentCreator('/agis-docs/blog/tags/docusaurus', '33a'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'aba'),
+    path: '/agis-docs/blog/tags/facebook',
+    component: ComponentCreator('/agis-docs/blog/tags/facebook', '74d'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '41a'),
+    path: '/agis-docs/blog/tags/hello',
+    component: ComponentCreator('/agis-docs/blog/tags/hello', 'e28'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '8e5'),
+    path: '/agis-docs/blog/tags/hola',
+    component: ComponentCreator('/agis-docs/blog/tags/hola', 'c65'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/agis-docs/blog/welcome',
+    component: ComponentCreator('/agis-docs/blog/welcome', '4f2'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/agis-docs/markdown-page',
+    component: ComponentCreator('/agis-docs/markdown-page', 'e12'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '250'),
+    path: '/agis-docs/docs',
+    component: ComponentCreator('/agis-docs/docs', '3a7'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', 'c27'),
+        path: '/agis-docs/docs',
+        component: ComponentCreator('/agis-docs/docs', '3c7'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'c36'),
+            path: '/agis-docs/docs',
+            component: ComponentCreator('/agis-docs/docs', 'f73'),
             routes: [
               {
-                path: '/docs/category/sobre-o-agis',
-                component: ComponentCreator('/docs/category/sobre-o-agis', '92f'),
+                path: '/agis-docs/docs/category/sobre-o-agis',
+                component: ComponentCreator('/agis-docs/docs/category/sobre-o-agis', 'ae5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/sobre-o-projeto',
-                component: ComponentCreator('/docs/category/sobre-o-projeto', '76e'),
+                path: '/agis-docs/docs/category/sobre-o-projeto',
+                component: ComponentCreator('/agis-docs/docs/category/sobre-o-projeto', 'af7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/agis-docs/docs/intro',
+                component: ComponentCreator('/agis-docs/docs/intro', 'e80'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/sobre-o-agis/equipe',
-                component: ComponentCreator('/docs/sobre-o-agis/equipe', '30b'),
+                path: '/agis-docs/docs/sobre-o-agis/equipe',
+                component: ComponentCreator('/agis-docs/docs/sobre-o-agis/equipe', '46b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/sobre-o-agis/o-agis',
-                component: ComponentCreator('/docs/sobre-o-agis/o-agis', 'df9'),
+                path: '/agis-docs/docs/sobre-o-agis/o-agis',
+                component: ComponentCreator('/agis-docs/docs/sobre-o-agis/o-agis', 'ea7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/sobre-o-projeto/ciclo-de-vida',
-                component: ComponentCreator('/docs/sobre-o-projeto/ciclo-de-vida', '1e7'),
+                path: '/agis-docs/docs/sobre-o-projeto/ciclo-de-vida',
+                component: ComponentCreator('/agis-docs/docs/sobre-o-projeto/ciclo-de-vida', 'f79'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -117,8 +117,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/agis-docs/',
+    component: ComponentCreator('/agis-docs/', '278'),
     exact: true
   },
   {
