@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sobre-o-agis/equipe",
+              "path": "/docs/sobre-o-agis/equipe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sobre-o-agis/o-agis",
+              "path": "/docs/sobre-o-agis/o-agis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sobre-o-projeto/ciclo-de-vida",
+              "path": "/docs/sobre-o-projeto/ciclo-de-vida",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/sobre-o-agis",
+              "path": "/docs/category/sobre-o-agis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/sobre-o-projeto",
+              "path": "/docs/category/sobre-o-projeto",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

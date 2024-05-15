@@ -1,0 +1,23 @@
+{
+  "id": "sobre-o-projeto/ciclo-de-vida",
+  "title": "Ciclo de vida do projeto",
+  "description": "|              | Descrição                                                                                                                                                                                                                                                                                                                                                            |",
+  "source": "@site/docs/sobre-o-projeto/ciclo-de-vida.md",
+  "sourceDirName": "sobre-o-projeto",
+  "slug": "/sobre-o-projeto/ciclo-de-vida",
+  "permalink": "/docs/sobre-o-projeto/ciclo-de-vida",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/sobre-o-projeto/ciclo-de-vida.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sobre o projeto",
+    "permalink": "/docs/category/sobre-o-projeto"
+  }
+}
